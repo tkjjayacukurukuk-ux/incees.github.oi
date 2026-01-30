@@ -1,0 +1,44 @@
+body {
+background-color: #FFFFE0; /* menentukan tfdewewarna kuning cerah */
+font-family: Arial, sans-serif; /* jenis huruf yang bersih dan mudah dibaca*/
+color: #0000FF; /* warna teks utama(hijau muda) */
+}
+
+.kartu-profil{
+width:300px;
+magin:50px auto; /* 50px jarak atas /bawah,auto menengahkan kiri kanan*/
+paddihg:20px;
+background-color;white;
+border-radius;15px;/* membuat sudut menjadi melengkung*/
+box-shedow:0 4px 8px rgba(0,0,0,0.1):/* efek bayangan*/
+teks-align:center:/* menengahkan semua teks didalam kartu*/
+} 
+
+.kartu-profil img {
+width:150px:
+border-radius:50%:/*trik untuk membuat gambar persegi menjadi lingkaran sempurna*/
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
